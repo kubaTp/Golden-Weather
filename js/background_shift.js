@@ -1,0 +1,1 @@
+window.onload = aler('works');
